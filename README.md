@@ -1,8 +1,8 @@
 # Products-users
-Projeto realizado seguindo o projeto do curso da Udemy - Java Completo.
-Este projeto mostra a relação entre usuários, pedidos, itens de pedidos, categorias de pedidos e pagamento.
+Projeto realizado seguindo o curso Udemy Nélio Alves - Java Completo.
+A estrutura mostra a relação entre usuários, pedidos, itens de pedidos, categorias de pedidos e pagamento.
 
-Conceitos presentes no projeto:
+Conceitos presentes:
 
 - Spring Boot Java;
 - Maven;
